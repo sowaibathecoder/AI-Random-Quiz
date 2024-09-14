@@ -1,0 +1,21 @@
+{
+  "name": "sown02-quiz-system",
+  "version": "1.0.0",
+  "description": "This is a cli based quiz system with Typescript, Node.js and package inquirer and chalk.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SOWAIBA NAZ (490877)",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.2",
+    "chalk": "^5.3.0"
+  }
+}
